@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: rgb(56, 56, 56);
+}
+#nine{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 310px;
+}
+
+input{
+    height: 90px;
+    width: 90px;
+}
