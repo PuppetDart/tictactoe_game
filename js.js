@@ -46,7 +46,6 @@ input.forEach((j) => {
         flag++;
 
         if(game()){
-            j.style.color='rgb(255, 238, 0)';
             alert("Player "+symbol+ " won");
             reset_func();
         }
